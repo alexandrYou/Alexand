@@ -1,0 +1,91 @@
+F:\dotnet\ClassLibrary1\Slastenin\bin\Debug\Slastenin.exe.config
+F:\dotnet\ClassLibrary1\Slastenin\bin\Debug\Slastenin.exe
+F:\dotnet\ClassLibrary1\Slastenin\bin\Debug\Slastenin.pdb
+F:\dotnet\ClassLibrary1\Slastenin\bin\Debug\memory.dll
+F:\dotnet\ClassLibrary1\Slastenin\bin\Debug\memory.pdb
+F:\dotnet\ClassLibrary1\Slastenin\obj\Debug\Slastenin.csprojResolveAssemblyReference.cache
+F:\dotnet\ClassLibrary1\Slastenin\obj\Debug\Slastenin.exe
+F:\dotnet\ClassLibrary1\Slastenin\obj\Debug\Slastenin.pdb
+D:\my\text\u4ob\miphi\dotnet\new_end\ClassLibrary1\Slastenin\bin\Debug\Slastenin.exe.config
+D:\my\text\u4ob\miphi\dotnet\new_end\ClassLibrary1\Slastenin\obj\Debug\Slastenin.exe
+D:\my\text\u4ob\miphi\dotnet\new_end\ClassLibrary1\Slastenin\obj\Debug\Slastenin.pdb
+D:\my\text\u4ob\miphi\dotnet\new_end\ClassLibrary1\Slastenin\bin\Debug\Slastenin.exe
+D:\my\text\u4ob\miphi\dotnet\new_end\ClassLibrary1\Slastenin\bin\Debug\Slastenin.pdb
+D:\my\text\u4ob\miphi\dotnet\new_end\ClassLibrary1\Slastenin\bin\Debug\memory.dll
+D:\my\text\u4ob\miphi\dotnet\new_end\ClassLibrary1\Slastenin\bin\Debug\memory.pdb
+D:\my\text\u4ob\miphi\dotnet\new_end\ClassLibrary1\Slastenin\obj\Debug\Slastenin.csprojResolveAssemblyReference.cache
+D:\my\text\u4ob\miphi\dotnet\lab1\ClassLibrary1\Slastenin\bin\Debug\Slastenin.exe.config
+D:\my\text\u4ob\miphi\dotnet\lab1\ClassLibrary1\Slastenin\obj\Debug\Slastenin.exe
+D:\my\text\u4ob\miphi\dotnet\lab1\ClassLibrary1\Slastenin\obj\Debug\Slastenin.pdb
+D:\my\text\u4ob\miphi\dotnet\lab1\ClassLibrary1\Slastenin\bin\Debug\Slastenin.exe
+D:\my\text\u4ob\miphi\dotnet\lab1\ClassLibrary1\Slastenin\bin\Debug\Slastenin.pdb
+D:\my\text\u4ob\miphi\dotnet\lab1\ClassLibrary1\Slastenin\bin\Debug\memory.dll
+D:\my\text\u4ob\miphi\dotnet\lab1\ClassLibrary1\Slastenin\bin\Debug\memory.pdb
+D:\my\text\u4ob\miphi\dotnet\lab1\ClassLibrary1\Slastenin\obj\Debug\Slastenin.csprojResolveAssemblyReference.cache
+D:\temp\ClassLibrary1\Slastenin\bin\Debug\Slastenin.exe.config
+D:\temp\ClassLibrary1\Slastenin\obj\Debug\Slastenin.exe
+D:\temp\ClassLibrary1\Slastenin\obj\Debug\Slastenin.pdb
+D:\temp\ClassLibrary1\Slastenin\bin\Debug\Slastenin.exe
+D:\temp\ClassLibrary1\Slastenin\bin\Debug\Slastenin.pdb
+D:\temp\ClassLibrary1\Slastenin\bin\Debug\memory.dll
+D:\temp\ClassLibrary1\Slastenin\bin\Debug\memory.pdb
+D:\temp\ClassLibrary1\Slastenin\obj\Debug\Slastenin.csprojResolveAssemblyReference.cache
+D:\my\text\u4ob\miphi\dotnet\lab2\ClassLibrary1\Slastenin\bin\Debug\Slastenin.exe.config
+D:\my\text\u4ob\miphi\dotnet\lab2\ClassLibrary1\Slastenin\obj\Debug\Slastenin.exe
+D:\my\text\u4ob\miphi\dotnet\lab2\ClassLibrary1\Slastenin\obj\Debug\Slastenin.pdb
+D:\my\text\u4ob\miphi\dotnet\lab2\ClassLibrary1\Slastenin\bin\Debug\Slastenin.exe
+D:\my\text\u4ob\miphi\dotnet\lab2\ClassLibrary1\Slastenin\bin\Debug\Slastenin.pdb
+D:\my\text\u4ob\miphi\dotnet\lab2\ClassLibrary1\Slastenin\bin\Debug\memory.dll
+D:\my\text\u4ob\miphi\dotnet\lab2\ClassLibrary1\Slastenin\bin\Debug\memory.pdb
+D:\my\text\u4ob\miphi\dotnet\lab2\ClassLibrary1\Slastenin\obj\Debug\Slastenin.csprojResolveAssemblyReference.cache
+G:\dotnet\lab2\ClassLibrary1\Slastenin\bin\Debug\Slastenin.exe.config
+G:\dotnet\lab2\ClassLibrary1\Slastenin\obj\Debug\Slastenin.exe
+G:\dotnet\lab2\ClassLibrary1\Slastenin\obj\Debug\Slastenin.pdb
+G:\dotnet\lab2\ClassLibrary1\Slastenin\obj\Debug\Slastenin.csprojResolveAssemblyReference.cache
+G:\dotnet\lab2\ClassLibrary1\Slastenin\bin\Debug\Slastenin.exe
+G:\dotnet\lab2\ClassLibrary1\Slastenin\bin\Debug\Slastenin.pdb
+G:\dotnet\lab2\ClassLibrary1\Slastenin\bin\Debug\memory.dll
+G:\dotnet\lab2\ClassLibrary1\Slastenin\bin\Debug\memory.pdb
+D:\my\text\u4ob\miphi\dotnet\lab3\ClassLibrary1\Slastenin\bin\Debug\Slastenin.exe.config
+D:\my\text\u4ob\miphi\dotnet\lab3\ClassLibrary1\Slastenin\obj\Debug\Slastenin.exe
+D:\my\text\u4ob\miphi\dotnet\lab3\ClassLibrary1\Slastenin\obj\Debug\Slastenin.pdb
+D:\my\text\u4ob\miphi\dotnet\lab3\ClassLibrary1\Slastenin\bin\Debug\Slastenin.exe
+D:\my\text\u4ob\miphi\dotnet\lab3\ClassLibrary1\Slastenin\bin\Debug\Slastenin.pdb
+D:\my\text\u4ob\miphi\dotnet\lab3\ClassLibrary1\Slastenin\bin\Debug\memory.dll
+D:\my\text\u4ob\miphi\dotnet\lab3\ClassLibrary1\Slastenin\bin\Debug\memory.pdb
+D:\my\text\u4ob\miphi\dotnet\lab3\ClassLibrary1\Slastenin\obj\Debug\Slastenin.csprojResolveAssemblyReference.cache
+D:\my\text\u4ob\miphi\dotnet\lab3\new\ClassLibrary1\Slastenin\bin\Debug\Slastenin.exe.config
+D:\my\text\u4ob\miphi\dotnet\lab3\new\ClassLibrary1\Slastenin\obj\Debug\Slastenin.exe
+D:\my\text\u4ob\miphi\dotnet\lab3\new\ClassLibrary1\Slastenin\obj\Debug\Slastenin.pdb
+D:\my\text\u4ob\miphi\dotnet\lab3\new\ClassLibrary1\Slastenin\bin\Debug\Slastenin.exe
+D:\my\text\u4ob\miphi\dotnet\lab3\new\ClassLibrary1\Slastenin\bin\Debug\Slastenin.pdb
+D:\my\text\u4ob\miphi\dotnet\lab3\new\ClassLibrary1\Slastenin\bin\Debug\memory.dll
+D:\my\text\u4ob\miphi\dotnet\lab3\new\ClassLibrary1\Slastenin\bin\Debug\memory.pdb
+D:\my\text\u4ob\miphi\dotnet\lab3\new\ClassLibrary1\Slastenin\obj\Debug\Slastenin.csprojResolveAssemblyReference.cache
+F:\dotnet\ Лаб3\ClassLibrary1\Slastenin\bin\Debug\Slastenin.exe.config
+F:\dotnet\ Лаб3\ClassLibrary1\Slastenin\obj\Debug\Slastenin.exe
+F:\dotnet\ Лаб3\ClassLibrary1\Slastenin\obj\Debug\Slastenin.pdb
+F:\dotnet\ Лаб3\ClassLibrary1\Slastenin\bin\Debug\Slastenin.exe
+F:\dotnet\ Лаб3\ClassLibrary1\Slastenin\bin\Debug\Slastenin.pdb
+F:\dotnet\ Лаб3\ClassLibrary1\Slastenin\bin\Debug\memory.dll
+F:\dotnet\ Лаб3\ClassLibrary1\Slastenin\bin\Debug\memory.pdb
+F:\dotnet\ Лаб3\ClassLibrary1\Slastenin\obj\Debug\Slastenin.csprojResolveAssemblyReference.cache
+F:\dotnet\lab4\ClassLibrary1\Slastenin\bin\Debug\Slastenin.exe.config
+F:\dotnet\lab4\ClassLibrary1\Slastenin\obj\Debug\Slastenin.exe
+F:\dotnet\lab4\ClassLibrary1\Slastenin\obj\Debug\Slastenin.pdb
+F:\dotnet\lab4\ClassLibrary1\Slastenin\bin\Debug\Slastenin.exe
+F:\dotnet\lab4\ClassLibrary1\Slastenin\bin\Debug\Slastenin.pdb
+F:\dotnet\lab4\ClassLibrary1\Slastenin\bin\Debug\memory.dll
+F:\dotnet\lab4\ClassLibrary1\Slastenin\bin\Debug\memory.pdb
+F:\dotnet\lab4\ClassLibrary1\Slastenin\obj\Debug\Slastenin.csprojResolveAssemblyReference.cache
+D:\my\text\u4ob\miphi\dotnet\lab4\ClassLibrary1\Slastenin\bin\Debug\Slastenin.exe.config
+D:\my\text\u4ob\miphi\dotnet\lab4\ClassLibrary1\Slastenin\obj\Debug\Slastenin.exe
+D:\my\text\u4ob\miphi\dotnet\lab4\ClassLibrary1\Slastenin\obj\Debug\Slastenin.pdb
+D:\my\text\u4ob\miphi\dotnet\lab4\ClassLibrary1\Slastenin\bin\Debug\Slastenin.exe
+D:\my\text\u4ob\miphi\dotnet\lab4\ClassLibrary1\Slastenin\bin\Debug\Slastenin.pdb
+D:\my\text\u4ob\miphi\dotnet\lab4\ClassLibrary1\Slastenin\bin\Debug\memory.dll
+D:\my\text\u4ob\miphi\dotnet\lab4\ClassLibrary1\Slastenin\bin\Debug\memory.pdb
+D:\my\text\u4ob\miphi\dotnet\lab4\ClassLibrary1\Slastenin\obj\Debug\Slastenin.csprojResolveAssemblyReference.cache
+D:\my\text\u4ob\miphi\dotnet\lab4\lab4\Slastenin\bin\Debug\Slastenin.exe.config
+D:\my\text\u4ob\miphi\dotnet\lab4\lab4\Slastenin\obj\Debug\Slastenin.exe
+D:\my\text\u4ob\miphi\dotnet\lab4\lab4\Slastenin\obj\Debug\Slastenin.pdb

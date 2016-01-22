@@ -1,0 +1,8 @@
+Kingston|HX321|194590|1|17000|Plastic
+cingston|zX32|119590|2|37000|Iron
+aingston|qX21|139590|3|47000|Gold
+zingston|xX31|129590|4|57000|rubber
+Kingston|zX2|194590|1|17000|Selicon
+cingston|aX3|119590|2|37000|Iron
+aingston|dX31|139590|3|47000|Plastic
+zingston|fX21|129590|4|57000|Gold
